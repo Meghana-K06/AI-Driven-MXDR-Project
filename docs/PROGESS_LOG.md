@@ -60,7 +60,7 @@
 - Added PROJECT_OVERVIEW.md
 - Started PROGRESS_LOG.md
 
-- ## Week 1: Foundation & Project 1
+## Week 1: Foundation & Project 1
 
 ## Day 1: Basic Log Reading ✅
 **Date:** January 20, 2026
