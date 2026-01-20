@@ -3,7 +3,9 @@
 > An intelligent Managed Extended Detection and Response (MXDR) system using AI to detect unknown threats, correlate multi-IP attacks, and reduce alert fatigue.
 
 ![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR-USERNAME/AI-Driven-MXDR-Project)
+![GitHub last commit](https://img.shields.io/github/last-commit/Meghana-K06/AI-Driven-MXDR-Project)
+
+---
 
 ## 🎯 Project Overview
 
@@ -28,20 +30,20 @@ This project builds a next-generation AI-based MXDR system that can:
 
 | Phase | Description | Status | Duration |
 |-------|-------------|--------|----------|
-| *Project 0* | Understanding the Problem | ✅ Complete | 2 days |
-| *Project 1* | Data Collection & Log Parser | 🔄 In Progress | 1 week |
-| *Project 2* | ATHR Implementation | ⏳ Pending | 2 weeks |
-| *Project 3* | CA-MICE Development | ⏳ Pending | 2 weeks |
-| *Project 4* | Log Compression Module | ⏳ Pending | 1 week |
-| *Project 5* | SOTM & ML Pipeline | ⏳ Pending | 2 weeks |
-| *Project 6* | Zero-Shot Detection | ⏳ Pending | 2 weeks |
-| *Project 7* | Dashboard & Integration | ⏳ Pending | 1 week |
-| *Project 8* | Testing & Deployment | ⏳ Pending | 1 week |
+| **Project 0** | Understanding the Problem | ✅ Complete | 2 days |
+| **Project 1** | Data Collection & Log Parser | 🔄 In Progress | 1 week |
+| **Project 2** | ATHR Implementation | ⏳ Pending | 2 weeks |
+| **Project 3** | CA-MICE Development | ⏳ Pending | 2 weeks |
+| **Project 4** | Log Compression Module | ⏳ Pending | 1 week |
+| **Project 5** | SOTM & ML Pipeline | ⏳ Pending | 2 weeks |
+| **Project 6** | Zero-Shot Detection | ⏳ Pending | 2 weeks |
+| **Project 7** | Dashboard & Integration | ⏳ Pending | 1 week |
+| **Project 8** | Testing & Deployment | ⏳ Pending | 1 week |
 
 ---
 
 ## 📁 Project Structure
-
+```
 AI-Driven-MXDR-Project/
 ├── README.md                 # This file
 ├── docs/                     # Documentation
@@ -55,6 +57,7 @@ AI-Driven-MXDR-Project/
 ├── notebooks/                # Jupyter notebooks (future)
 ├── models/                   # Trained models (future)
 └── tests/                    # Unit tests (future)
+```
 
 ---
 
@@ -96,7 +99,7 @@ This project is part of my cybersecurity learning path. Follow along as I:
 
 ## 👨‍💻 Author
 
-**Meghana Kasa**
+**[Your Name]**
 - GitHub: [@Meghana-K06](https://github.com/Meghana-K06)
 - Learning: Cybersecurity & AI-driven threat detection
 - Goal: Build career in SOC/Security Analysis
@@ -109,5 +112,5 @@ MIT License - Feel free to use this for learning!
 
 ---
 
-**Started:** 20 January 2026  
+**Started:** 19 January 2026  
 **Last Updated:** January 20, 2026
