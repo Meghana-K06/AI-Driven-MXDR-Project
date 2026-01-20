@@ -2,6 +2,9 @@
 
 > An intelligent Managed Extended Detection and Response (MXDR) system using AI to detect unknown threats, correlate multi-IP attacks, and reduce alert fatigue.
 
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR-USERNAME/AI-Driven-MXDR-Project)
+
 ## 🎯 Project Overview
 
 This project builds a next-generation AI-based MXDR system that can:
@@ -52,7 +55,6 @@ AI-Driven-MXDR-Project/
 ├── notebooks/                # Jupyter notebooks (future)
 ├── models/                   # Trained models (future)
 └── tests/                    # Unit tests (future)
-
 
 ---
 
