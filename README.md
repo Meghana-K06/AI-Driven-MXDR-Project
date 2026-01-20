@@ -19,6 +19,52 @@ This project builds a next-generation AI-based MXDR system that can:
 4. **Self-Optimizing Threat Models (SOTM)** - Learns from analyst feedback
 5. **Zero-Shot Unknown Malware Detection** - Detects never-before-seen threats
 
+---
+
+## 📊 Project Timeline
+
+| Phase | Description | Status | Duration |
+|-------|-------------|--------|----------|
+| *Project 0* | Understanding the Problem | ✅ Complete | 2 days |
+| *Project 1* | Data Collection & Log Parser | 🔄 In Progress | 1 week |
+| *Project 2* | ATHR Implementation | ⏳ Pending | 2 weeks |
+| *Project 3* | CA-MICE Development | ⏳ Pending | 2 weeks |
+| *Project 4* | Log Compression Module | ⏳ Pending | 1 week |
+| *Project 5* | SOTM & ML Pipeline | ⏳ Pending | 2 weeks |
+| *Project 6* | Zero-Shot Detection | ⏳ Pending | 2 weeks |
+| *Project 7* | Dashboard & Integration | ⏳ Pending | 1 week |
+| *Project 8* | Testing & Deployment | ⏳ Pending | 1 week |
+
+---
+
+## 📁 Project Structure
+
+AI-Driven-MXDR-Project/
+├── README.md                 # This file
+├── docs/                     # Documentation
+│   ├── PROJECT_OVERVIEW.md   # Detailed project explanation
+│   └── PROGRESS_LOG.md       # Daily progress tracking
+├── src/                      # Source code
+│   └── log_reader/           # Log parsing module
+├── data/                     # Datasets
+│   ├── sample_logs/          # Sample log files
+│   └── parsed/               # Processed data
+├── notebooks/                # Jupyter notebooks (future)
+├── models/                   # Trained models (future)
+└── tests/                    # Unit tests (future)
+
+
+---
+
+## 🚀 Current Progress
+
+- ✅ Project 0: Understanding MXDR concepts
+- ✅ Created repository structure
+- ✅ Documented project overview
+- 🔄 Project 1: Building log parser (Day 1/7)
+
+---
+
 ## 📚 Documentation
 
 - [📖 Project Overview](docs/PROJECT_OVERVIEW.md) - Detailed explanation of MXDR system
