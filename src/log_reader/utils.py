@@ -148,7 +148,7 @@ if __name__ == "__main__":
     log_path = "data/sample_logs/auth.log"
     
     # Parse the log file
-    entries = parse_auth_log(log_path, output_file="data/formatted_auth.log")
+    entries = parse_auth_log(log_path, output_file="data/sample_logs/formatted_auth.log")
     
     # Additional analysis
     if entries:
