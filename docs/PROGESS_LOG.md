@@ -124,3 +124,37 @@ Jan 19 10:23:15 server sshd[12345]: Failed password...
 - Sudo commands: 1
 - Firewall blocks: 1
 
+## Day 3: Advanced Threat Detection & Security Analysis 🔒
+**Date:** January 21, 2026
+
+### What I Built:
+✅ `detect_brute_force()` - Identifies repeated failed login attempts
+✅ `classify_ip_reputation()` - Scores IPs (MALICIOUS/SUSPICIOUS/UNKNOWN)
+✅ `classify_event()` - Auto-categorizes 8 security event types
+✅ `analyze_privilege_escalation()` - Tracks sudo/root access
+✅ `get_event_timeline()` - Correlates events by IP address
+✅ `perform_security_analysis()` - Generates full threat reports
+
+### Intelligence Features
+✅ `extract_username()` - Pattern matching for targeted users
+✅ `perform_security_analysis()` - Full threat assessment report
+✅ Attack pattern recognition (username enumeration vs targeted attacks)
+✅ Color-coded threat visualization in console
+✅ Complete analysis export to formatted_auth.log
+
+### Security Events Detected:
+| Event Type             | Description                   | Severity |
+|------------------------|-------------------------------|----------|
+| FAILED_LOGIN           | Failed authentication         | Medium   |
+| SUCCESSFUL_LOGIN       | Valid authentication          | Info     |
+| INVALID_USER           | Non-existent user attempt     | High     |
+| BRUTE_FORCE            | Multiple failed attempts      | Critical |
+| PRIVILEGE_ESCALATION   | Sudo/root access              | High     |
+| FIREWALL_BLOCK         | Blocked by UFW                | Medium   |
+| CONNECTION_CLOSED      | Abnormal termination          | Low      |
+| UNKNOWN                | Unclassified event            | N/A      |
+
+
+### Code Files
+- `src/log_reader/utils.py` - Enhanced security analyzer (500+ lines)
+- `data/sample_logs/formatted_auth.log` - Complete threat analysis report
