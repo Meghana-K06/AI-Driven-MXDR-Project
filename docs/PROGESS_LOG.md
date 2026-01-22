@@ -158,3 +158,56 @@ Jan 19 10:23:15 server sshd[12345]: Failed password...
 ### Code Files
 - `src/log_reader/utils.py` - Enhanced security analyzer (500+ lines)
 - `data/sample_logs/formatted_auth.log` - Complete threat analysis report
+
+---
+
+## Week 2: Offensive Security & Attack Simulation
+
+### Day 1 - January 23, 2026 ✅
+
+**Project Phase:** Project 2 - Day 1: Attack Lab Setup
+
+**What I Did:**
+- ✅ Created Project 2 folder structure (attack_logs, normal_logs, signatures, results)
+- ✅ Wrote comprehensive Project 2 overview documentation
+- ✅ Verified attack tools installation (nmap, hydra, nikto all present)
+- ✅ Configured SSH service as attack target
+- ✅ Captured baseline "normal" activity logs for comparison
+- ✅ Created attack safety checklist
+- ✅ Documented legal and ethical guidelines
+
+**Lab Configuration:**
+```
+Attack Machine: Kali Linux
+IP Address: 10.100.34.233
+Target: localhost (127.0.0.1)
+Services: SSH (port 22)
+```
+
+**Baseline Captured:**
+
+Captured normal activity logs:
+- `baseline_auth_20260123.log` - Normal SSH login/logout
+- `baseline_syslog_20260123.log` - Normal system operations
+
+**Normal Activity Pattern:**
+- 1 SSH login → success
+- ~30 seconds of activity
+- Clean logout
+- No failures
+
+**This will be compared against attack logs to spot differences!**
+**Baseline logs = normal behavior reference**
+
+**Time Spent:** 3 hours
+
+---
+
+### Statistics Update
+
+| Week | Days Worked | Total Hours | GitHub Commits | Status |
+|------|-------------|-------------|----------------|---------|
+| 1 (Project 1) | 7 | ~8 | 7 | ✅ Complete |
+| 2 (Project 2) | 1 | 2 | 1 | 🔄 In Progress |
+
+---
