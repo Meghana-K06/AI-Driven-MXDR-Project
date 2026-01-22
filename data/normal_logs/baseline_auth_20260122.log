@@ -1,0 +1,8 @@
+Jan 22 02:21:55 kali systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jan 22 02:21:55 kali sshd[16444]: Server listening on 0.0.0.0 port 22.
+Jan 22 02:21:55 kali sshd[16444]: Server listening on :: port 22.
+Jan 22 02:21:55 kali systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jan 22 02:57:37 kali sshd-session[33479]: Accepted password for kali from ::1 port 54904 ssh2
+Jan 22 02:57:37 kali sshd-session[33479]: pam_unix(sshd:session): session opened for user kali(uid=1000) by kali(uid=0)
+Jan 22 02:59:40 kali sshd-session[34570]: Accepted password for kali from ::1 port 38652 ssh2
+Jan 22 02:59:40 kali sshd-session[34570]: pam_unix(sshd:session): session opened for user kali(uid=1000) by kali(uid=0)
